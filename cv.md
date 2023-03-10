@@ -34,8 +34,8 @@ function areYouPlayingBanjo(name) {
 * Russian(Fluent)
 
 ## Education
-*ZAC - 2017 - 2021* - computer science 
-*ZP - 2021 - 2024*- computer cience
+* *ZAC - 2017 - 2021* - computer science 
+* *ZP - 2021 - 2024*- computer cience
 
 ## Courses
 Udemi (Web developer)
